@@ -30,7 +30,7 @@ cd git-2.52.0/
 قبل از ساخت گیت، وابستگی‌های لازم را با استفاده از دستور `yum` نصب کنید:
 
 ```bash
-sudo yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel perl-CPAN perl-devel -y
+yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel perl-CPAN perl-devel -y
 ```
 
 ### مرحله 5: کامپایل گیت
