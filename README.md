@@ -46,7 +46,7 @@ make prefix=/usr/local all
 پس از اتمام فرایند کامپایل، گیت را روی سیستم نصب کنید:
 
 ```bash
-sudo make prefix=/usr/local install
+make prefix=/usr/local install
 ```
 
 ### مرحله 7: بررسی نصب
